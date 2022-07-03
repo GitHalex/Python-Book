@@ -13,5 +13,18 @@ tortuga.forward(100)
 tortuga.left(90)
 tortuga.forward(100)
 
+tortuga.penup()
+tortuga.right(90)
+tortuga.forward(100)
+tortuga.pendown()
+
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+tortuga.left(90)
+tortuga.forward(100)
+
 pantalla.exitonclick()
 
