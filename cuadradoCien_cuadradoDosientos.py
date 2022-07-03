@@ -5,6 +5,7 @@ pantalla.setup(600, 500)
 pantalla.screensize(400, 500)
 
 tortuga = Turtle()
+tortuga.pencolor("red")
 tortuga.forward(200)
 tortuga.left(90)
 tortuga.forward(200)
@@ -16,6 +17,7 @@ tortuga.forward(200)
 tortuga.penup()
 
 tortuga.left(135)
+tortuga.pencolor("blue")
 tortuga.forward(70)
 tortuga.pendown()
 
