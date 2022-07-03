@@ -14,6 +14,7 @@ tortuga.left(90)
 tortuga.forward(200)
 
 tortuga.penup()
+
 tortuga.left(135)
 tortuga.forward(70)
 tortuga.pendown()
